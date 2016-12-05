@@ -1,6 +1,6 @@
 {
-	"file": "https://github.com/zhanghuijun-hello/test/upload/master/data/test/5000-out2.csv",
-	"name": "Test",
+	"file": "data/test/5000-out2.csv",
+	"name": "Test(50 set definitions)",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
